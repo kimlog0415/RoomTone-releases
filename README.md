@@ -16,7 +16,7 @@
 3. 로그인하고, 처음이면 「3일 무료 체험 시작」을 누르세요. 체험이 끝나면 30초 미리듣기로 돌아가고 자동으로 결제되지는 않습니다.
 4. 영업시간대로 틀려면 **스케줄** 탭에서 요일·시간을 정해 두세요. 안내방송도 같은 탭에서 시간을 정합니다.
 
-필요한 환경은 64비트 윈도 10 이상과 인터넷 연결입니다.
+필요한 환경은 64비트 윈도 10 이상과 인터넷 연결입니다. 윈도 7·8처럼 그보다 오래된 컴퓨터에는 설치되지 않습니다 — 그런 매장은 안드로이드 폰이나 태블릿에 룸톤 앱을 깔아 매장 스피커에 연결해 주세요. 같은 계정으로 바로 쓸 수 있습니다.
 
 ## 알아 두실 것
 
@@ -39,6 +39,6 @@ Background music for shops, cafés, hotels and restaurants. This repository host
 - About and subscription → <https://roomtone.logstone.net>
 - Support → support@logstone.net
 
-Run `Roomtone-Setup.exe` — no administrator rights needed. If Windows shows "Windows protected your PC", choose More info → Run anyway. Closing the window hides it to the tray and the music keeps playing; quit from the tray menu. Requires 64-bit Windows 10 or later and an internet connection.
+Run `Roomtone-Setup.exe` — no administrator rights needed. If Windows shows "Windows protected your PC", choose More info → Run anyway. Closing the window hides it to the tray and the music keeps playing; quit from the tray menu. Requires 64-bit Windows 10 or later and an internet connection. It can't be installed on Windows 7 or 8 — on those computers, install the Roomtone app on an Android phone or tablet and connect it to your speakers; your account works there too.
 
 © LOGSTONE
